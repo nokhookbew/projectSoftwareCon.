@@ -1,0 +1,5 @@
+01417322,Introductory Linear Algebra
+01418211,Software Construction
+01418231,Data Structures
+01417322,Principles of Statics
+

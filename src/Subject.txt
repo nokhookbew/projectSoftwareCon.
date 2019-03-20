@@ -1,0 +1,41 @@
+ยังไม่ได้ลงทะเบียน,3,01417111,Calculus I,null
+ยังไม่ได้ลงทะเบียน,3,01417112,Calculus II,01417111
+ยังไม่ได้ลงทะเบียน,3,01417322,Principles of Statics,01417112
+ยังไม่ได้ลงทะเบียน,3,01417322,Introductory Linear Algebra,01417112
+ยังไม่ได้ลงทะเบียน,2,01418114,Introduction to Computer Science,null
+ยังไม่ได้ลงทะเบียน,3,01418112,Fundamental Programming Concepts,01418114
+ยังไม่ได้ลงทะเบียน,3,01418131,Digital Computer Logic,null
+ยังไม่ได้ลงทะเบียน,3,01418113,Computer Programming,01418112
+ยังไม่ได้ลงทะเบียน,4,01418132,Fundamentals of Computing,null
+ยังไม่ได้ลงทะเบียน,3,01418211,Software Construction,01417113
+ยังไม่ได้ลงทะเบียน,3,01418231,Data Structures,01418113
+ยังไม่ได้ลงทะเบียน,3,01418221,Fundamentals of Database Systems,01418113
+ยังไม่ได้ลงทะเบียน,3,01418232,Algorithm Design and Analysis,01418113,01418231
+ยังไม่ได้ลงทะเบียน,4,01418233,Assembly Language and Computer Architecture,01418113
+ยังไม่ได้ลงทะเบียน,3,01418321,System Analysis and Design,01418211,01418221
+ยังไม่ได้ลงทะเบียน,4,01418331,Operating Systems,01418233
+ยังไม่ได้ลงทะเบียน,3,01418341,Intellectual Property for Software and Digital Contents,null
+ยังไม่ได้ลงทะเบียน,3,01418497,Seminar,01418211,01418232,01418233
+ยังไม่ได้ลงทะเบียน,3,01418332,Information System Security,01418331
+ยังไม่ได้ลงทะเบียน,2,01418333,Automata Theory,01418132
+ยังไม่ได้ลงทะเบียน,2,01418334,Compiler Techniques,01418333
+ยังไม่ได้ลงทะเบียน,3,01418351,Computer Communications and Protocols,01418331
+ยังไม่ได้ลงทะเบียน,1,01418390,Cooperative Education Preparation,01418390
+ยังไม่ได้ลงทะเบียน,6,01418490,Cooperative Education,01418390
+ยังไม่ได้ลงทะเบียน,3,01418499,Computer Science Project,01418321
+ยังไม่ได้ลงทะเบียน,3,01418235,Unix Operating System & Shell Programming,null
+ยังไม่ได้ลงทะเบียน,3,01418334,Compiler Techniques,null
+ยังไม่ได้ลงทะเบียน,3,01418382,Computer Graphics Working Environment,null
+ยังไม่ได้ลงทะเบียน,3,01418462,Theory of Artificial Intelligence,null
+ยังไม่ได้ลงทะเบียน,3,01418325,Information Quality Management,null
+ยังไม่ได้ลงทะเบียน,3,01418346,Mobile Application Design & Development,null
+ยังไม่ได้ลงทะเบียน,2,01999111,Knowledge of the Land,null
+ยังไม่ได้ลงทะเบียน,1,02999144,Life Skills for Undergraduate Student,null
+ยังไม่ได้ลงทะเบียน,0,01355111,Foundation English I,null
+ยังไม่ได้ลงทะเบียน,3,01355112,Foundation English II,null
+ยังไม่ได้ลงทะเบียน,3,01355113,Foundation English III,null
+ยังไม่ได้ลงทะเบียน,3,01355201,Fundamental English Reading,null
+ยังไม่ได้ลงทะเบียน,3,01355202,Fundamental English Writing,null
+ยังไม่ได้ลงทะเบียน,3,01355203,Fundamental English Structure,null
+ยังไม่ได้ลงทะเบียน,3,01355204,Fundamental English Listening-Speaking,null
+ยังไม่ได้ลงทะเบียน,1,01371111,Information Media,null

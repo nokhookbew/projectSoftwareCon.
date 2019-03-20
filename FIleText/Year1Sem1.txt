@@ -1,0 +1,6 @@
+01417111,Calculus I
+01418112,Fundamental Programming Concepts
+01418114,Introduction to Computer Science
+01418131,Digital Computer Logic
+01999111,Knowledge of the Land
+

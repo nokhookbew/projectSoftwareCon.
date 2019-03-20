@@ -1,0 +1,10 @@
+01418332,Information System Security,h
+01418333,Automata Theory,h
+01418334,Compiler Techniques,h
+01418351,Computer Communications and Protocols,h
+01418390,Cooperative Education Preparation,h
+
+
+
+
+

@@ -1,0 +1,7 @@
+01418321,System Analysis and Design,h
+01418331,Operating Systems,h
+01418341,Intellectual Property for Software and Digital Contents,h
+01418497,Seminar,h
+
+
+

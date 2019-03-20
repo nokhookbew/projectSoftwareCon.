@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KURegister:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KURegister_jar</output-path>
+    <root id="archive" name="KURegister.jar">
+      <element id="module-output" name="KURegister" />
+    </root>
+  </artifact>
+</component>
